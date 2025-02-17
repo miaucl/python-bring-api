@@ -4,7 +4,7 @@ pydantic>=2.9.2
 pre-commit>=3.6.1
 python-dotenv>=1.0.1
 ruff~=0.9
-mkdocs-material==9.6.2
+mkdocs-material==9.6.4
 mkdocstrings[python]==0.28.0
 mashumaro>=3.13.1
 orjson>=3.10.12
